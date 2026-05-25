@@ -1,4 +1,4 @@
-# CalcPro — Gelişmiş Hesap Makinesi
+# CalcPro
 
 Güzel, modern bir arayüze sahip, bilimsel işlemler de dahil olmak üzere tüm matematiksel hesaplamaları yapabilen Android uygulaması.
 
